@@ -1,0 +1,9 @@
+.TH _PRINTF 3 "October 2022"
+
+.SH NAME
+.B _printf formatted output conversion
+
+.SH SYNOPSIS
+.B #include "holberton.h"
+
+.B int printf(const chr 
