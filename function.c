@@ -77,7 +77,7 @@ int print_sdi(va_list di)
 	}
 	if (v < 0)
 	{
-		_putchar('_');
+		_putchar('-');
 		v = -v;
 		len++;
 	}
